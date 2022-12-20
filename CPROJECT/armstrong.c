@@ -19,5 +19,6 @@ main()
 	else
 	{
 		printf("\n not armstrong number");
+		printf("\n please enter the correct number");
 	}
 }
